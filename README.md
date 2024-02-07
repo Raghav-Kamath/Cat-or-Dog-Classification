@@ -1,2 +1,2 @@
-# Cat-or-Dog-Classification
+# Cat-vs-Dog-Classification
 Classifies a given image as Cat or Dog
